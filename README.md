@@ -8,6 +8,11 @@ Docker image with compiled OpenCV, ffmpeg and Node.js.
 
 Based on [ffmpeg-opencv image](https://hub.docker.com/r/m03geek/ffmpeg-opencv/)
 
+# Versions (latest)
+
+* node - 10.0.0
+* opencv - 3.4.1
+
 # Node.js lib compatibility
 
 * [opencv4nodejs](https://www.npmjs.com/package/opencv4nodejs) - native module, see installing instructions above and follow module documentation.
