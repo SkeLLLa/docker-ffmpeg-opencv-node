@@ -10,7 +10,7 @@ Based on [ffmpeg-opencv image](https://hub.docker.com/r/m03geek/ffmpeg-opencv/)
 
 # Versions (latest)
 
-* node - 10.2.0
+* node - 10.2.1
 * opencv - 3.4.1
 
 # Node.js lib compatibility
